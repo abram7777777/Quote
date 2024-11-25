@@ -1,17 +1,17 @@
 var listt = [
     {
-        quote : "“Be yourself; everyone else is already taken.”"
+        quote : "“Be yourself; everyone else is already taken.”" ,
         writer : "― Oscar Wilde"
     },
     {
-        quote : "“You only live once, but if you do it right, once is enough.”"
+        quote : "“You only live once, but if you do it right, once is enough.”" ,
         writer : "― Mae West"
     },
     {
-        quote : "“Be the change that you wish to see in the world.”"
+        quote : "“Be the change that you wish to see in the world.”" ,
         writer : "― Mahatma Gandhi"
     }
-]
+];
 function shift(){
     var x =Math.floor(Math.random() * 3) + 1;
 if(x==1){
